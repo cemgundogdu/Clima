@@ -24,4 +24,4 @@ Sevgili hocam Angela yu ile yaptığım Clima adlı uygulama. Bu uygulamada kara
 
 
 Kullandığım Api'yi şu siteden aldım.
-www.openweather.com
+www.openweathermap.org
