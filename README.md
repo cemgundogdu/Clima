@@ -9,7 +9,7 @@
 
 ## Yaptığım uygulama
 
-Sevgili hocam Angela yu ile yaptığım Clima adlı uygulama. Bu uygulamada karanlık mod özellikli bir hava durumu uygulaması yaptım . Bir şehri manuel olarak aramanın yanı sıra, iPhone'dan alınan GPS verilerine dayalı olarak mevcut konumun hava durumunu kontrol edebiliyoruz . bulunduğunuz şehrin ya da aradığınız şehrin hava durumuna göre bulutumuz değişiyor.
+Angela yu hocam ile yaptığım Clima adlı uygulama. Bu uygulamada karanlık mod özellikli bir hava durumu uygulaması yaptım . Bir şehri manuel olarak aramanın yanı sıra, iPhone'dan alınan GPS verilerine dayalı olarak mevcut konumun hava durumunu kontrol edebiliyoruz . bulunduğunuz şehrin ya da aradığınız şehrin hava durumuna göre bulutumuz değişiyor.
 
 ## Öğrendiğim şeyler
 
